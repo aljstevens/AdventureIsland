@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ReadMe9.cs">
+    <Files>
+      <File FileName="Assets\ReadMe.cs" Line="9" Column="92" />
+      <File FileName="Assets\ReadMe1.cs" Line="10" Column="31" />
+      <File FileName="Assets\ReadMe2.cs" Line="10" Column="41" />
+      <File FileName="Assets\ReadMe3.cs" Line="10" Column="2" />
+      <File FileName="Assets\ReadMe4.cs" Line="10" Column="41" />
+      <File FileName="Assets\ReadMe5.cs" Line="10" Column="41" />
+      <File FileName="Assets\ReadMe6.cs" Line="10" Column="131" />
+      <File FileName="Assets\ReadMe7.cs" Line="12" Column="65" />
+      <File FileName="Assets\ReadMe8.cs" Line="11" Column="70" />
+      <File FileName="Assets\ReadMe9.cs" Line="11" Column="136" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
